@@ -1,6 +1,6 @@
 User-agent: *
 Disallow: 
-Sitemap:http://bdwaste.qustmddus.com/sitemap.xml
+Sitemap:http://hzone.kr/sitemap.xml
 
 User-agent:Yeti
 Disallow: 
